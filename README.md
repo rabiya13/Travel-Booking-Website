@@ -1,4 +1,4 @@
-# Travelling Website – UI/UX Design (Figma)
+# Travel Booking Website – UI/UX Design (Figma)
 A modern and intuitive travel booking website UI designed to help users easily search, explore, and book flights, hotels, and activities with a smooth, user-friendly experience.
 
 🔗 **Figma Design:**  
