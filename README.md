@@ -22,5 +22,5 @@ This project focuses on creating a clean and engaging travel booking website des
 
 ## 🛠 Tools Used
 - Figma
-![Booking](./images/booking.png)
+
 
