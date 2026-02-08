@@ -5,12 +5,11 @@ A modern and intuitive travel booking website UI designed to help users easily s
 https://www.figma.com/proto/rU2VLwJMxvLUwkpK8LiHuz/WEBSITE-DESIGN-1?page-id=170%3A13&node-id=193-86&viewport=14%2C79%2C0.16&t=sWMUeLd3xpjNNUTs-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=193%3A86
 
 ##  Project Overview
-This project focuses on creating a clean and engaging travel booking interface that simplifies trip planning. The design emphasizes clarity, accessibility, and delightful user interactions to improve the overall booking experience.
+This project focuses on creating a clean and engaging travel booking website design interface that simplifies trip planning. The design emphasizes clarity, accessibility, and delightful user interactions to improve the overall booking experience.
 
 ##  Key Features
--  Easy search for flights, destinations & activities  
--  Explore popular destinations with rich visuals  
--  Simple navigation with clear user flow  
+-  Easy search for destinations & activities  
+-  Explore popular destinations with rich visuals    
 -  Fully responsive design (Mobile & Desktop)  
 -  Modern, minimal, and aesthetic design system  
 
